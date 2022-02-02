@@ -1,0 +1,86 @@
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.opaco {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 6px;
+  width: 1000px;
+  margin: auto;
+  height: 720px;
+}
+
+.inizio {
+  display: block;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.logo {
+  width: 15%;
+  padding: 40px;
+  margin-top: 80px;
+  padding-bottom: 0px;
+  width: 200px;
+  margin: auto;
+}
+
+.titolo {
+  color: #33cc00;
+  margin-bottom: 10px;
+  margin-top: auto;
+}
+
+.azioni{
+  background-color: #33cc00;
+  height: 30px;
+  text-align: center;
+  width: 850px;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.monopattino{
+  color: white;
+  display: inline-block;
+  margin: auto;
+  margin-left: 70px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.nomepattino{
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+.via{
+  font-family: serif;
+  font-size: 15px;
+}
+
+.carica1{
+  background-color: orange;
+  height: 20px;
+  width: 400px;
+  margin-left: 75px;
+  border-radius: 6px;
+}
+
+.carica2{
+  background-color: green;
+  height: 20px;
+  width: 100px;
+  margin-left: 75px;
+  border-radius: 6px;
+}
+
+.carica3{
+  background-color: red;
+  height: 20px;
+  width: 500px;
+  margin-left: 75px;
+  border-radius: 6px;
+}
